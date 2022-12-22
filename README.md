@@ -1,6 +1,7 @@
 - Buscador de Cep
 - React-native com Express
 - Api
+-Termux
 - HTML
 - CSS
 
