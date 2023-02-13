@@ -2,7 +2,7 @@
 
 Deploy: [Buscador de Cep](https://petersonihmes.github.io/Buscador-de-Cep-React-Express/) 
 
-- React-native com Express
+- React com Express
 - Api
 -Termux
 - HTML
